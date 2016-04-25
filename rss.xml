@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jfp]]></title>
+        <description><![CDATA[jfp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 14:58:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cory Henry - Amazing Grace]]></title>
+            <description><![CDATA[<article><h1>Cory Henry - Amazing Grace</h1><p>Cory Henry finishes an amazing master class with this outstanding rendition of Amazing Grace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b079753c96eb41bd0f921808b7fe828b278e881.jpg"></article>]]></description>
+            <link>https://youtube.com/watch?v=H_TcFxw0bxs</link>
+            <guid isPermaLink="false">d6077182-5a71-409c-8078-d6eff7fabd7e</guid>
+            <pubDate>Mon, 25 Apr 2016 14:57:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
