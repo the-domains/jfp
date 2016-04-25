@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[jfp]]></title>
         <description><![CDATA[jfp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 14:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 14:58:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Brief History of the Corporation: 1600 to 2100]]></title>
+            <description><![CDATA[<article><h1>A Brief History of the Corporation: 1600 to 2100</h1><p>On 8 June, a Scottish banker named Alexander Fordyce shorted the collapsing Company's shares in the London markets. But a momentary bounce-back in the stock ruined his plans, and he skipped town leaving £550,000 in debt. Much of this was owed to the Ayr Bank, which imploded.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4a5ce3c1eed6de8fec4ceb79d278fc7fb8a9db.png"></article>]]></description>
+            <link>http://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/</link>
+            <guid isPermaLink="false">0b10d5a2-6a61-4684-ae03-578ade98cecf</guid>
+            <pubDate>Mon, 25 Apr 2016 14:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cory Henry - Amazing Grace]]></title>
             <description><![CDATA[<article><h1>Cory Henry - Amazing Grace</h1><p>Cory Henry finishes an amazing master class with this outstanding rendition of Amazing Grace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b079753c96eb41bd0f921808b7fe828b278e881.jpg"></article>]]></description>
