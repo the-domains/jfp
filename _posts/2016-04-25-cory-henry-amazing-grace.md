@@ -6,13 +6,15 @@ isBasedOnUrl: 'https://youtube.com/watch?v=H_TcFxw0bxs'
 inLanguage: null
 keywords: []
 description: Cory Henry finishes an amazing master class with this outstanding rendition of Amazing Grace.
-datePublished: '2016-04-25T14:57:39.464Z'
-dateModified: '2016-04-25T14:55:47.291Z'
+datePublished: '2016-04-26T15:01:39.765Z'
+dateModified: '2016-04-26T15:01:38.808Z'
 title: Cory Henry - Amazing Grace
 author:
   - name: Gabriel Bautista
     url: 'https://www.youtube.com/user/gabriel7bc'
     avatar: {}
+sourcePath: _posts/2016-04-25-cory-henry-amazing-grace.md
+published: true
 authors: []
 publisher:
   name: null
@@ -20,8 +22,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-cory-henry-amazing-grace.md
-published: true
 _type: MediaObject
 
 ---
