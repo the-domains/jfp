@@ -1,7 +1,7 @@
 name: jfp
 favicon: null
 layout_spectrum: 0.50192
-typography_spectrum: 0.46820204914547503
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.7468226170167327
-  lightness: 0.12956754304468632
+  lightness: 0.4375
   saturation: 0.21514091920107603
   rhythmicContrast: 0.8956733006052673
 purpose: []
