@@ -4,8 +4,15 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 13:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 13:59:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did we just hit peak Apple?]]></title>
+            <description><![CDATA[<article><h1>Did we just hit peak Apple?</h1><p>Apple posted its worst quarterly financial results in more than a decade on Tuesday. Sales of iPhones, iPads, and Macs all fell by double digits, leading to a 13 percent drop in total revenue. The markets have reacted harshly, with the company's stock losing more than 7 percent of its value in after-hours trading.</p><img src="https://cdn3.vox-cdn.com/thumbor/MI2uS8hV2MRRsreJf1exz6t5JeY=/127x0:2996x1913/1280x853/cdn0.vox-cdn.com/uploads/chorus_image/image/49408547/516837044.0.jpg"></article>]]></description>
+            <link>http://www.vox.com/2016/4/26/11513268/apple-quarterly-results-explained</link>
+            <guid isPermaLink="false">94afe37e-bf1a-40c9-a9b3-e6797641e970</guid>
+            <pubDate>Wed, 27 Apr 2016 13:59:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Up town Funk by Bart Ouwehand]]></title>
             <description><![CDATA[<article><h1>Up town Funk by Bart Ouwehand</h1><p>Stream Up town Funk by Bart Ouwehand from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32fd70c00aa6c28cec04f527befe30dc0d20c7e2.jpg"></article>]]></description>
@@ -68,12 +75,6 @@
             <link>https://thegrid.ai/jfp/mountain/index.html</link>
             <guid isPermaLink="false">aa2bb731-f124-414c-85c0-5aeb939504d3</guid>
             <pubDate>Tue, 26 Apr 2016 14:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/hashtag/Chernobyl?src=tren</link>
-            <guid isPermaLink="false">60e18be7-92da-4225-b15f-5ce7cc36ed02</guid>
-            <pubDate>Tue, 26 Apr 2016 08:34:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
