@@ -4,8 +4,15 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 12:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 13:10:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ALASKA]]></title>
+            <description><![CDATA[<article><h1>ALASKA</h1><p>Alaska is filled with epic landscapes made all the more beautiful in the quiet frozen solitude of winter. This is a compilation of some of the footage we captured on a recent trip to Alaska.</p></article>]]></description>
+            <link>https://vimeo.com/82339570</link>
+            <guid isPermaLink="false">e50c1a27-3066-499e-947d-bc8f72810e12</guid>
+            <pubDate>Wed, 27 Apr 2016 13:09:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jaco Pastorius Belgium 1985 finale]]></title>
             <description><![CDATA[<article><h1>Jaco Pastorius Belgium 1985 finale</h1><p>Jaco grabs the Yamaha DX7 and piano for a final jam on Liberty City. Incredible chops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1d2ab7ce6294fae352d1837cf6b47e5d5ac31a9.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>https://www.instagram.com/p/BCwMZySq-bM/?taken-at=1580683</link>
             <guid isPermaLink="false">d5d0b33c-6d9f-4a47-8c52-719e0923953b</guid>
             <pubDate>Tue, 26 Apr 2016 06:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brief History of the Corporation: 1600 to 2100]]></title>
-            <description><![CDATA[<article><h1>A Brief History of the Corporation: 1600 to 2100</h1><p>On 8 June, a Scottish banker named Alexander Fordyce shorted the collapsing Company's shares in the London markets. But a momentary bounce-back in the stock ruined his plans, and he skipped town leaving £550,000 in debt. Much of this was owed to the Ayr Bank, which imploded.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4a5ce3c1eed6de8fec4ceb79d278fc7fb8a9db.png"></article>]]></description>
-            <link>http://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/</link>
-            <guid isPermaLink="false">0b10d5a2-6a61-4684-ae03-578ade98cecf</guid>
-            <pubDate>Mon, 25 Apr 2016 14:57:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
