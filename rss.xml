@@ -4,8 +4,15 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 14:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:06:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem ipsum]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></article>]]></description>
+            <link>https://thegrid.ai/jfp/lorem-ipsum/index.html</link>
+            <guid isPermaLink="false">23588cc4-5e92-4e14-a2b0-0361777a0ca7</guid>
+            <pubDate>Thu, 28 Apr 2016 15:06:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schild und Sühne]]></title>
             <description><![CDATA[<article><h1>Schild und Sühne</h1><p>Mir tut es überhaupt nicht leid, dass ich derzeit für Sie nicht da sein kann. Anderen aber schon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e429d84388c68afbbc0f5c099d4499764502d7d7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/04/pasi-orrensalo-lives-behind-the-waste/</link>
             <guid isPermaLink="false">a45328bf-a149-4a7a-958f-0276ef7c4301</guid>
             <pubDate>Wed, 27 Apr 2016 11:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['This is the stuff of nightmares': Sadistic cat killer terrorizes London pet owners]]></title>
-            <description><![CDATA[<article><h1>'This is the stuff of nightmares': Sadistic cat killer terrorizes London pet owners</h1><p>The dead cats began to appear early last year. Their bodies would be left on a door step or discarded in an alley, or they would turn up in a garden, with hallmark signs of sadistic brutality: Decapitated, with their tails and ears cut off, stomachs slashed and organs removed, the tortured remains sometimes drained of blood.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e86f098292e949c5b84300a8418bd6675e095f7.jpg"></article>]]></description>
-            <link>https://www.washingtonpost.com/news/animalia/wp/2016/04/26/this-is-the-stuff-of-nightmares-sadistic-cat-killer-terrorizes-london-pet-owners/?hpid=hp_no-name_hp-in-the-news%3Apage%2Fin-the-news</link>
-            <guid isPermaLink="false">caa7b98e-52ec-4a0f-a163-77af8e030ac6</guid>
-            <pubDate>Wed, 27 Apr 2016 05:59:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
