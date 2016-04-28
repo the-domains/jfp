@@ -5,13 +5,13 @@ inNav: false
 isBasedOnUrl: 'https://www.6020online.at/ausgaben/april-2016/spaltpilz/'
 inLanguage: de
 keywords: []
-description: 'Bei den Herstellern von Geschirrspülertüren, den Konstrukteuren, Verkäufern, ihren Familien und Freunden und allen, deren Gefühle ich mit meiner gedankenlosen Aussage betreffend Geschirrspülertüren verletzt haben sollte. Weil es ist ja so: Ich verachte bloß eine spezifische Geschirrspülertür, nämlich - und da liegt der Hund begraben - meine fucking eigene.'
-datePublished: '2016-04-28T13:51:06.924Z'
-dateModified: '2016-04-28T13:46:02.281Z'
+description: Über die Geschirrspülertür und das Mikroben-Dorado
+datePublished: '2016-04-28T13:55:01.204Z'
+dateModified: '2016-04-28T13:54:42.936Z'
 author: []
 related: []
 app_links: []
-title: 'Johannes F. Park: Spaltpilz | 6020 Stadtmagazin Innsbruck'
+title: ''
 sourcePath: _posts/2016-04-28-johannes-f-park-spaltpilz-or-6020-stadtmagazin-innsbruck.md
 published: true
 authors: []
@@ -25,4 +25,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Johannes F. Park: Spaltpilz | 6020 Stadtmagazin Innsbruck</h1><p>Bei den Herstellern von Geschirrspülertüren, den Konstrukteuren, Verkäufern, ihren Familien und Freunden und allen, deren Gefühle ich mit meiner gedankenlosen Aussage betreffend Geschirrspülertüren verletzt haben sollte. Weil es ist ja so: Ich verachte bloß eine spezifische Geschirrspülertür, nämlich - und da liegt der Hund begraben - meine fucking eigene.</p><img src="https://www.6020online.at/media/38550/Meinung-F-Park.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a444bac7-ef8a-4fe1-8476-c30e3fed12b9.jpg)
+
+# 
+
+# Spaltpilz
+
+Über die Geschirrspülertür und das Mikroben-Dorado
