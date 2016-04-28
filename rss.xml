@@ -4,8 +4,15 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 15:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:18:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>Über das dumme Wort und seine Benutzer</p></article>]]></description>
+            <link>https://www.6020online.at/ausgaben/jaenner-2016/raumbald/</link>
+            <guid isPermaLink="false">1a61597e-f4d4-40bc-b0e8-56b59148640c</guid>
+            <pubDate>Thu, 28 Apr 2016 15:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lorem ipsum]]></title>
             <description><![CDATA[<article><h1>Lorem ipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtube.com/watch?v=y4FMrkOZj9E</link>
             <guid isPermaLink="false">ce54bd0e-1aa0-424c-a595-254badb27221</guid>
             <pubDate>Wed, 27 Apr 2016 12:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Finnish Junkyards Where Garbage Goes to Fly]]></title>
-            <description><![CDATA[<article><h1>The Finnish Junkyards Where Garbage Goes to Fly</h1><p>Everything you own eventually becomes junk, cast aside in favor of a shiny new thing and given little thought once it's gone. But Pasi Orrensalo sees beauty in everything you discard-especially as it soars through the air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9cbfa2f0c12a3317ca55763d4ae9aac117599e2.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/pasi-orrensalo-lives-behind-the-waste/</link>
-            <guid isPermaLink="false">a45328bf-a149-4a7a-958f-0276ef7c4301</guid>
-            <pubDate>Wed, 27 Apr 2016 11:56:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
