@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.6020online.at/ausgaben/april-2016/spaltpilz/'
 inLanguage: de
 keywords: []
 description: Über die Geschirrspülertür und das Mikroben-Dorado
-datePublished: '2016-04-28T13:55:01.204Z'
-dateModified: '2016-04-28T13:54:42.936Z'
+datePublished: '2016-04-28T13:56:16.120Z'
+dateModified: '2016-04-28T13:55:09.155Z'
 author: []
 related: []
 app_links: []
@@ -26,8 +26,6 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a444bac7-ef8a-4fe1-8476-c30e3fed12b9.jpg)
-
-# 
 
 # Spaltpilz
 
