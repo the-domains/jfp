@@ -4,8 +4,15 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 07:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 09:25:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das neue Biedermeier ]]></title>
+            <description><![CDATA[<article><h1>Das neue Biedermeier </h1><p>Irgendwer heißt immer Kevin-Manfred.</p></article>]]></description>
+            <link>https://www.6020online.at/ausgaben/juli-2016/park-das-neue-biedermeier/</link>
+            <guid isPermaLink="false">ab12fa37-aa0d-4480-983d-c25fa97ff04e</guid>
+            <pubDate>Mon, 04 Jul 2016 09:25:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Müll runter!]]></title>
             <description><![CDATA[<article><h1>Müll runter!</h1><p>Alle freuen sich auf die Fußball-EM, dabei ist Gewichtheben der beste Fernseh-Sport der Welt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c428031ebd7be42b3c8386df8548297ef761c7db.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.buzzfeed.com/simoncrerar/unpeeling-the-orange?utm_term=.ftKdOOD2w</link>
             <guid isPermaLink="false">0655486a-9774-46c8-b147-f033e17d0bc6</guid>
             <pubDate>Wed, 27 Apr 2016 13:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ALASKA]]></title>
-            <description><![CDATA[<article><h1>ALASKA</h1><p>Alaska is filled with epic landscapes made all the more beautiful in the quiet frozen solitude of winter. This is a compilation of some of the footage we captured on a recent trip to Alaska.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de65fb14dad840760bec022ffaea9a77fac8311a.jpg"></article>]]></description>
-            <link>https://vimeo.com/82339570</link>
-            <guid isPermaLink="false">e50c1a27-3066-499e-947d-bc8f72810e12</guid>
-            <pubDate>Wed, 27 Apr 2016 13:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
