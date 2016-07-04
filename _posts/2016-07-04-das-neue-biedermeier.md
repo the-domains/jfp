@@ -6,12 +6,13 @@ isBasedOnUrl: 'https://www.6020online.at/ausgaben/juli-2016/park-das-neue-bieder
 inLanguage: de
 keywords: []
 description: Irgendwer heißt immer Kevin-Manfred.
-datePublished: '2016-07-04T09:25:12.988Z'
-dateModified: '2016-07-04T09:25:08.573Z'
+datePublished: '2016-07-04T09:26:44.564Z'
+dateModified: '2016-07-04T09:25:20.343Z'
 author: []
 related: []
 app_links: []
 title: 'Das neue Biedermeier '
+sourcePath: _posts/2016-07-04-das-neue-biedermeier.md
 authors: []
 publisher:
   name: 6020 Stadtmagazin Innsbruck
@@ -19,7 +20,6 @@ publisher:
   url: 'https://www.6020online.at'
   favicon: 'https://www.6020online.at/favicon.png'
 starred: false
-sourcePath: _posts/2016-07-04-das-neue-biedermeier.md
 _context: 'http://schema.org'
 _type: MediaObject
 
