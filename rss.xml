@@ -4,8 +4,16 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 09:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:31:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Johannes F. Park: Hautfarben | 6020 Stadtmagazin Innsbruck]]></title>
+            <description><![CDATA[<article><h1>Johannes F. Park: Hautfarben | 6020 Stadtmagazin Innsbruck</h1><p>Oder: Tattoos sind der beste Schutz vor dem Viersaucenfiasko
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/846f4a6ef6fafdc6685efb9d7396985f8f7792eb.jpg"></article>]]></description>
+            <link>https://www.6020online.at/ausgaben/august-2016/park-hautfarben/</link>
+            <guid isPermaLink="false">29f6f3e9-a07d-4faa-aac7-2e92fd89b463</guid>
+            <pubDate>Wed, 24 Aug 2016 14:30:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Das neue Biedermeier ]]></title>
             <description><![CDATA[<article><h1>Das neue Biedermeier </h1><p>Irgendwer heißt immer Kevin-Manfred.</p></article>]]></description>
@@ -68,13 +76,6 @@
             <link>https://soundcloud.com/bart-ouwehand/up-town-funk</link>
             <guid isPermaLink="false">b45969d7-2657-4944-9911-1d1c75f4b747</guid>
             <pubDate>Wed, 27 Apr 2016 13:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[19 Things You Probably Didn't Know About Sydney Opera House]]></title>
-            <description><![CDATA[<article><h1>19 Things You Probably Didn't Know About Sydney Opera House</h1><p>Google Cultural Institute reveals Australia's icon as you've never seen it before.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/217da397eec8bba4cbcda5631fe3cf20029109d0.jpg"></article>]]></description>
-            <link>http://www.buzzfeed.com/simoncrerar/unpeeling-the-orange?utm_term=.ftKdOOD2w</link>
-            <guid isPermaLink="false">0655486a-9774-46c8-b147-f033e17d0bc6</guid>
-            <pubDate>Wed, 27 Apr 2016 13:14:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
