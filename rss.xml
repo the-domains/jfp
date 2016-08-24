@@ -4,7 +4,7 @@
         <description><![CDATA[jfp]]></description>
         <link>https://thegrid.ai/jfp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:37:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jfp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Johannes F. Park: Hautfarben | 6020 Stadtmagazin Innsbruck]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Thu, 28 Apr 2016 15:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lorem ipsum]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></article>]]></description>
+            <link>https://thegrid.ai/jfp/lorem-ipsum/index.html</link>
+            <guid isPermaLink="false">23588cc4-5e92-4e14-a2b0-0361777a0ca7</guid>
+            <pubDate>Thu, 28 Apr 2016 15:06:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Schild und Sühne]]></title>
             <description><![CDATA[<article><h1>Schild und Sühne</h1><p>Mir tut es überhaupt nicht leid, dass ich derzeit für Sie nicht da sein kann. Anderen aber schon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e429d84388c68afbbc0f5c099d4499764502d7d7.jpg"></article>]]></description>
             <link>https://www.6020online.at/ausgaben/maerz-2016/schild-und-suehne/</link>
@@ -47,6 +54,13 @@
             <link>https://www.6020online.at/ausgaben/april-2016/spaltpilz/</link>
             <guid isPermaLink="false">cbd56bac-e66b-4769-8cdc-47d71370c47a</guid>
             <pubDate>Thu, 28 Apr 2016 13:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did we just hit peak Apple?]]></title>
+            <description><![CDATA[<article><h1>Did we just hit peak Apple?</h1><p>Apple posted its worst quarterly financial results in more than a decade on Tuesday. Sales of iPhones, iPads, and Macs all fell by double digits, leading to a 13 percent drop in total revenue. The markets have reacted harshly, with the company's stock losing more than 7 percent of its value in after-hours trading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e91b1064c5ffe8a91287737b0841dfb57195390.jpg"></article>]]></description>
+            <link>http://www.vox.com/2016/4/26/11513268/apple-quarterly-results-explained</link>
+            <guid isPermaLink="false">94afe37e-bf1a-40c9-a9b3-e6797641e970</guid>
+            <pubDate>Wed, 27 Apr 2016 13:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
