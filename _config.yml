@@ -1,7 +1,18 @@
+layout_spectrum: 0.700966130476445
+typography_spectrum: 0.4284290657378733
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.6238445700146258
+  lightness: 0.9590467098169029
+  saturation: 0.7603755951859057
+  rhythmicContrast: 0.5675819194875658
 name: jfp
 favicon: null
-layout_spectrum: 0.50192
-typography_spectrum: 0.17096
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f8f7f5'
-    - '#02070a'
-    - '#c7b4ae'
-    - '#fb2d28'
-    - '#46555b'
-  brandStrength: 0.8125
-  lightness: 0.375
-  saturation: 0.125
-  rhythmicContrast: 0.75
 purpose: []
